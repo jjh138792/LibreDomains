@@ -1,1 +1,17 @@
-
+{
+  "description": "个人博客网站",
+  "owner": {
+    "name": "qinhuang",
+    "github": "jjh138792",
+    "email": "jjh138792@gmail.com"
+  },
+  "records": [
+    {
+      "type": "A",
+      "name": "@",
+      "content": "1.162.149.180",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
